@@ -1,0 +1,1 @@
+# Schizophrenia-Prediction-by-Machine-Learning
